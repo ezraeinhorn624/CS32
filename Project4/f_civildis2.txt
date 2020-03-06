@@ -1,0 +1,22 @@
+On the Duty of C++ Debugging
+
+by Adam Kaplan
+
+I heartily accept the motto, "That source code is best
+which builds cleanest"; and I should like to see students
+carry this out in this class.  Carried out, it finally
+amounts to this, which also I believe--"That source code is
+best which builds with no warnings nor errors"; and when 
+Visual Studio is prepared for it, that will be the kind of code
+which it will have.  Debug-output is at best but an expedient; 
+but most bugs are usually, and all bugs are sometimes, inexpedient.
+The objections which I have to poor code are many
+and will be upheld via poor grades on assignments which fail
+to build correctly.
+The standing army is only an arm of the standing government.
+The executable itself, which is ideally the only thing I need
+to test for correctness, is equally liable to be poorly built
+and corrupted before the TAs can test through it.  Witness the
+present Project grading, the work of comparatively few hours
+using the Visual Studio .NET as my tool; for in the outset,
+the people would not have consented to this measure.
